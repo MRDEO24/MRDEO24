@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Muhammad Raihan Ar Rasyid</h1>
+<h3>Hola 👋, I'm Muhammad Raihan Ar Rasyid</h3>
 
 
 - 🤯 I’m currently working on **Pixel Dev Factory**
