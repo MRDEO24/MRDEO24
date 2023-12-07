@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, I'm Muhammad Raihan Ar Rasyid</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+
 
 - 🤯 I’m currently working on **Pixel Dev Factory**
 
-- 🌱 I’m currently learning **React Js, Flutter and 3D Design**
+- 🌱 I’m currently learning **React Js, Flutter, Laravel and 3D Design**
 
 - 👨‍💻 All of my projects are available at [https://raihanar24.vercel.app](https://raihanar24.vercel.app)
 
