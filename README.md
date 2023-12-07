@@ -1,5 +1,9 @@
-<h3>Hola 👋, I'm Muhammad Raihan Ar Rasyid</h3>
+<div align="center">
+  <img src="https://cdn.lospec.com/gallery/883-harley-darksynthwave-238304.gif" height="170">
+</div>
+<br>
 
+## Hola 👋, I'm Muhammad Raihan Ar Rasyid
 
 - 🤯 I’m currently working on **Pixel Dev Factory**
 
@@ -14,7 +18,7 @@
 - ⚡ Fun fact **I love to WorkOut 💪 and Motorcycle 🛵**
 
 
-
+**Github Stats:**
 <br />
 
 
