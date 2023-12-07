@@ -17,9 +17,8 @@
 
 - ⚡ Fun fact **I love to WorkOut 💪 and Motorcycle 🛵**
 
+<br>
 
-**Github Stats:**
-<br />
 
 
 #### Languages
